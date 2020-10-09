@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋. My name is Go Seo-yeon, and this is my Github. Welcome.
+### Hi there 👋. My name is Seo-yeon Go, and this is my Github. Welcome.
     
 ### 🌱 I’m currently learning
     - cpp
