@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋. My name is Go Seo-yeon, and this is my Github. Welcome.
-
-### 🔭 I’m currently working on 
-    - cpp
     
 ### 🌱 I’m currently learning
     - cpp
