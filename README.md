@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 
 ### 💌 How to reach me
-- mail: ![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tjduscn334@gmail.com)](mailto:tjduscn334@gmail.com)
+- mail: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tjduscn334@gmail.com)](mailto:tjduscn334@gmail.com)
 
 
 ### 🔥 My Github Stats
