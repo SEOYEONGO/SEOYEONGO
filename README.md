@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋. My name is Seo-yeon Go, and this is my Github. Welcome.  ![](https://img.shields.io/badge/github-GIVEME--STAR-red?style=flat-square)
+### Hi there 👋. My name is Seo-yeon Go, and this is my Github. Welcome.  ![]
 
-### 📄 Here is My CV
-[CV](SEOYEONGO/Project-LBBUK/Resume/Resume.pdf)
+(https://img.shields.io/badge/github-GIVEME--STAR-red?style=flat-square)
+
+### 📄 Here is My [CV](Resume.pdf)
     
 ### 🌱 I’m currently learning
     - cpp
