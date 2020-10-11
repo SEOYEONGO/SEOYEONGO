@@ -36,6 +36,6 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tjduscn334@gmail.com)](mailto:tjduscn334@gmail.com)
 
 ### 🔥 My Github Stats
-![] (https://github-readme-stats.vercel.app/api?username=seoyeongo&show_icons=true&hide_border=False)
+![](https://github-readme-stats.vercel.app/api?username=seoyeongo&show_icons=true&hide_border=False)
 ---
 
