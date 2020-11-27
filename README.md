@@ -27,8 +27,7 @@ Here are some ideas to get you started:
     
     
 ### 📌 I'm Currently interested in
-- Web.
-- application development.
+- Web
 - cpp
 - Algorithm
 - data structure
