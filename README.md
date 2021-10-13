@@ -24,22 +24,15 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/github-GIVEME--STAR-red?style=flat-square)
 
-
 ### 📄 Here is My CV [click me](Resume.pdf)
-    
-    
+     
 ### 🌱 I’m currently learning
     - Algorithm
     - ML
     - Software Testing - feature mining
     
-
 ### 💌 How to reach me
 - mail: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tjduscn334@gmail.com)](mailto:tjduscn334@gmail.com)
 
-
 ### 🔥 My Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=seoyeongo&show_icons=true&hide_border=False)
-
-
-
