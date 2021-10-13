@@ -11,6 +11,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+ 
+### 📌 I'm Currently interested in
+- Web
+- cpp
+- Algorithm
+- data structure
+
 -->
 
 ### Hi there 👋. My name is Seo-yeon Go, and this is my Github. Welcome.  
@@ -22,17 +29,10 @@ Here are some ideas to get you started:
     
     
 ### 🌱 I’m currently learning
-    - cpp
-    - web
+    - Algorithm
+    - ML
+    - Software Testing - feature mining
     
-    
-### 📌 I'm Currently interested in
-- Web
-- cpp
-- Algorithm
-- data structure
-
-
 
 ### 💌 How to reach me
 - mail: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tjduscn334@gmail.com)](mailto:tjduscn334@gmail.com)
